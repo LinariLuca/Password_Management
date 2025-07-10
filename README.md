@@ -46,12 +46,20 @@ For questions, suggestions, or collaborations on this or **other larger projects
 
 ---
 
-## 💡 How to Run
+## 💡 How to Run 
 
 1. Clone this repository at URL: [https://github.com/LinariLuca/QuizGame.git](https://github.com/LinariLuca/Password_Management.git)
-2. cd QuizGame-main
-3. python QuizGame.py
-4. Enjoy the game and try to do the best result
+2. cd Password_Management-main
+3. python main.py
+4. Enjoy the project (in “Password.txt” there is already a user with a corresponding password)
+
+---
+
+## 📌 Future work / possible improvements
+
+1. Define that when a user enters a password, it must have a certain minimum length and certain special characters (e.g. oblige user to have at least one character such as ! or # and at least one capital letter)
+2. Store data in a SQLite encrypted database instead of plain text
+3. Create a GUI with Tkinter
 
 
 
