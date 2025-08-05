@@ -48,7 +48,7 @@ For questions, suggestions, or collaborations on this or **other larger projects
 
 ## 💡 How to Run 
 
-1. Clone this repository at URL: [https://github.com/LinariLuca/QuizGame.git](https://github.com/LinariLuca/Password_Management.git)
+1. Clone this repository at URL: https://github.com/LinariLuca/Password_Management.git
 2. cd Password_Management-main
 3. python main.py
 4. Enjoy the project (in “Password.txt” there is already a user with a corresponding password)
