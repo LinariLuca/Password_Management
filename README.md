@@ -26,9 +26,6 @@ Passwords are encrypted and stored locally in a text file, while the encryption 
 
 ---
 
-
----
-
 ## ⚙️ Requirements
 
 - Python 3.x
