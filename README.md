@@ -1,5 +1,7 @@
 # 🔐 Python Password Manager
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/downloads/)
+
 This project is a simple **password manager** developed in Python.  
 It allows you to securely store, view, and delete passwords using **symmetric encryption** via the [Fernet](https://cryptography.io/en/latest/fernet/) module.  
 Passwords are encrypted and stored locally in a text file, while the encryption key is managed in a separate file.
